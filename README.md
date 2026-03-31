@@ -4,6 +4,9 @@
 This project is a smart water delivery system designed to solve local water supply challenges. It allows users to order 20-liter water cans based on their live location, ensuring service availability within a defined radius.
 
 ---
+## 🌐 Live Demo
+
+https://geetha-sandhya.github.io/Smart_RO_Project/
 
 ## 🚀 Features
 - 📍 Live location-based ordering
